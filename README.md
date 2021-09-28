@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amandasrwti
+- 👋 Hi, I’m Amanda
 - 🐳 I’m interested in marine biology
 - 🌱 I’m currently learning how to do github
 - 💞️ I’m looking to collaborate on anything!
